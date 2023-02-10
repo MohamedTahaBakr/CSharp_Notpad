@@ -1,0 +1,17 @@
+D:\ItI\day9\notepad\bin\Debug\net7.0-windows\notepad.exe
+D:\ItI\day9\notepad\bin\Debug\net7.0-windows\notepad.deps.json
+D:\ItI\day9\notepad\bin\Debug\net7.0-windows\notepad.runtimeconfig.json
+D:\ItI\day9\notepad\bin\Debug\net7.0-windows\notepad.dll
+D:\ItI\day9\notepad\bin\Debug\net7.0-windows\notepad.pdb
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.csproj.AssemblyReference.cache
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.notepad.resources
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.csproj.GenerateResource.cache
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.AssemblyInfoInputs.cache
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.AssemblyInfo.cs
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.csproj.CoreCompileInputs.cache
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.dll
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\refint\notepad.dll
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.pdb
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\notepad.genruntimeconfig.cache
+D:\ItI\day9\notepad\obj\Debug\net7.0-windows\ref\notepad.dll
